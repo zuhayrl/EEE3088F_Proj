@@ -1,2 +1,2 @@
 # EEE3088F_Proj
-A joint repository for a third yer engineering design project
+A joint repository for a third year engineering design project
