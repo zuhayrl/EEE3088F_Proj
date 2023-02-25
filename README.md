@@ -1,2 +1,12 @@
-# EEE3088F_Proj
+# **EEE3088F_Proj**
 A joint repository for a third year engineering design project
+
+## **Members**
+The three members working on this engineering project are:
+* **Michael Hills** - Power Management
+* **Zuhayr Loonat** - Microcontroller Interfacing and Coding
+* **Md Shaihan Islam** - Sensing
+
+## **Overview**
+The design project to be designed comprises of an enviro-sensing **HAT** (**H**ardware **A**ttached on **T**op). The HAT will consist of a number of sensors, namely light, temperature and humidity, which will connect to process and store the measured data in an ordered and organised way. This is useful for a variety of purposes involving the climate of small areas, as it measures three of the primary influences on climate. Examples of where such techbology would be ideal, include greenhouse control, solar panel installation and various construction processes such as testing the viability of a certain cement in a certain climate. It is also ideal for weather enthusiasts and climate investigation.
+
