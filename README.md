@@ -1,2 +1,3 @@
 # EEE3088F_Proj
-A joint repository for a third year engineering design project
+## **PCB**
+A **PCB**(Printed Circuit Board) is a electronic board which consists of a number of ports and connections. PCBs enable engineers to solder various electronic components onto the board, and when implemented correctly, can serve as useful devices. For this project, a PCB will be designed to connect the sensors to the main processing unit (STM32F051C6) in order to receive analog/digital inputs and send a digital output. The PCBs will be designed using KiCAD, a computer aided design application that specialises in PCB design and testing. KiCAD produces a number of files during the PCB design process, such as schematic files, gerber files, etc. These files will be uploaded, updated and revised onto this branch. 
