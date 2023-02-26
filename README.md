@@ -12,10 +12,10 @@ The design project to be designed comprises of an enviro-sensing **HAT** (**H**a
 
 ## Various branches in the repository
 * [Code](https://github.com/zuhayrl/EEE3088F_Proj/tree/Code) - In this branch, majority of the code to be uploaded on the microcontroller will be posted.
-* [Documentation](https://github.com/zuhayrl/EEE3088F_Proj/blob/Documentation/documenatation.md) - In this branch, important documentation such as requirements, specifications, etc. will be posted.
-* [PCB](https://github.com/zuhayrl/EEE3088F_Proj/blob/PCB/pcb.md) - In this branch, the various PCB designs and their gerber files will be uploaded and updated.  
-* [Power](https://github.com/zuhayrl/EEE3088F_Proj/blob/Power/power.md) - In this branch, all files related to power management of the project, such as schematics, will be uploaded and reviewed.
-* [Sensor-Code](https://github.com/zuhayrl/EEE3088F_Proj/blob/Sensor-Code/sensor.md) - This branch will contain all the versions of code and schematics regarding the sensors that the project will utilise.
-* [Simulations](https://github.com/zuhayrl/EEE3088F_Proj/blob/Simulations/simulations.md) - This branch will contain the updated versions of the results of the various circuit simulations that will be undertaken on LTSpice.
+* [Documentation](https://github.com/zuhayrl/EEE3088F_Proj/tree/Documentation) - In this branch, important documentation such as requirements, specifications, etc. will be posted.
+* [PCB](https://github.com/zuhayrl/EEE3088F_Proj/tree/PCB) - In this branch, the various PCB designs and their gerber files will be uploaded and updated.  
+* [Power](https://github.com/zuhayrl/EEE3088F_Proj/tree/Power) - In this branch, all files related to power management of the project, such as schematics, will be uploaded and reviewed.
+* [Sensor-Code](https://github.com/zuhayrl/EEE3088F_Proj/tree/Sensor-Code) - This branch will contain all the versions of code and schematics regarding the sensors that the project will utilise.
+* [Simulations](https://github.com/zuhayrl/EEE3088F_Proj/tree/Simulations) - This branch will contain the updated versions of the results of the various circuit simulations that will be undertaken on LTSpice.
 
 Please note that the above links are directed to the introductory page of the respective branch, which provides more information regarding the selected branch.
