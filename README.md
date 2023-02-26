@@ -17,3 +17,5 @@ The design project to be designed comprises of an enviro-sensing **HAT** (**H**a
 * [Power](https://github.com/zuhayrl/EEE3088F_Proj/blob/Power/power.md) - In this branch, all files related to power management of the project, such as schematics, will be uploaded and reviewed.
 * [Sensor-Code](https://github.com/zuhayrl/EEE3088F_Proj/blob/Sensor-Code/sensor.md) - This branch will contain all the versions of code and schematics regarding the sensors that the project will utilise.
 * [Simulations](https://github.com/zuhayrl/EEE3088F_Proj/blob/Simulations/simulations.md) - This branch will contain the updated versions of the results of the various circuit simulations that will be undertaken on LTSpice.
+
+Please note that the above links are directed to the introductory page of the respective branch, which provides more information regarding the selected branch.
