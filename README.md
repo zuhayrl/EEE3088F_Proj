@@ -12,3 +12,4 @@ The design project to be designed comprises of an enviro-sensing **HAT** (**H**a
 
 ## Various branches in the repository
 * [Code](https://github.com/zuhayrl/EEE3088F_Proj/blob/Code/code.md) - In this branch, majority of the code to be uploaded on the microcontroller will be posted.
+* [Documentation]()
