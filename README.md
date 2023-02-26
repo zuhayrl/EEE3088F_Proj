@@ -15,4 +15,4 @@ The design project to be designed comprises of an enviro-sensing **HAT** (**H**a
 * [Documentation](https://github.com/zuhayrl/EEE3088F_Proj/blob/Documentation/documenatation.md) - In this branch, important documentation such as requirements, specifications, etc. will be posted.
 * [PCB](https://github.com/zuhayrl/EEE3088F_Proj/blob/PCB/pcb.md) - In this branch, the various PCB designs and their gerber files will be uploaded and updated.  
 * [Power](https://github.com/zuhayrl/EEE3088F_Proj/blob/Power/power.md) - In this branch, all files related to power management of the project, such as schematics, will be uploaded and reviewed.
-* [Sensor-Coding](https://github.com/zuhayrl/EEE3088F_Proj/blob/Sensor-Coding/sensor.md) - This branch will contain all the versions of code and schematics regarding the sensors that the project will utilise.
+* [Sensor-Code](https://github.com/zuhayrl/EEE3088F_Proj/blob/Sensor-Code/sensor.md) - This branch will contain all the versions of code and schematics regarding the sensors that the project will utilise.
